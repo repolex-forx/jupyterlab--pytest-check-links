@@ -1,0 +1,11 @@
+{
+  "org": "jupyterlab",
+  "repo": "pytest-check-links",
+  "versions": [
+    {
+      "commit": "92c89c079d595f8319403fa7d2d1a4df6cf71ad5",
+      "tag": "",
+      "parsed_at": "2026-10-28T14:47:26.783220+00:00"
+    }
+  ]
+}
