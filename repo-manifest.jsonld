@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterlab/pytest-check-links/commit/92c89c079d595f8319403fa7d2d1a4df6cf71ad5",
       "git:hexsha": "92c89c079d595f8319403fa7d2d1a4df6cf71ad5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jupyterlab/pytest-check-links/commit/d455ef016ec99f886ebdf31d0b72393132dc8ab9",
